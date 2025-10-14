@@ -60,3 +60,7 @@
 2025-03-15 13:22:00 | INFO | repo=pv243-2015-infinispan-seminar | action=commit
 2025-08-16 16:02:00 | INFO | repo=pv243-2015-infinispan-seminar | action=commit
 2025-01-07 19:42:00 | DEBUG | repo=pv243-2015-infinispan-seminar | action=commit
+2025-05-16 09:12:00 | WARN | repo=pv243-2015-infinispan-seminar | action=pull
+2025-04-13 19:01:00 | WARN | repo=pv243-2015-infinispan-seminar | action=pull
+2025-05-20 14:21:00 | WARN | repo=pv243-2015-infinispan-seminar | action=test | passed=true
+2025-10-14 19:36:00 | WARN | repo=pv243-2015-infinispan-seminar | action=commit
